@@ -56,10 +56,18 @@ I want to build a distinct pacing arc for the encounters. If the player formulat
 <summary><b>Click to expand progress updates</b></summary>
 <br>
 
-**Pass 01: Paper Design Draft** I researched traditional cathedral architecture to quickly draft a paper blockout. The focus is establishing 1x1m spatial metrics and mapping the elevation flow.
+**Pass 01: Paper Design Draft (04/08/26)** *I researched traditional cathedral architecture to quickly draft a paper blockout. The focus is establishing 1x1m spatial metrics and mapping the elevation flow.*
 
 <p align="center">
   <img width="300" alt="Pass01" src="https://github.com/user-attachments/assets/8147b825-c047-4b38-b982-5d87e41fcda0" />
+</p>
+
+---
+
+**Pass 02: Initial Blockout & NavMesh Test (04/09/26)** *I built the first rough BSP blockout to test player movement and NavMesh generation. The primary focus for this pass was validating the elevation changes (like ramps and tiers) to ensure the player character can navigate across the entire map.*
+
+<p align="center">
+  <img width="300" alt="Pass02" src="https://github.com/user-attachments/assets/6ab1bf62-a42e-4d4a-9d09-7f2527e2437d" />
 </p>
 
 ---
