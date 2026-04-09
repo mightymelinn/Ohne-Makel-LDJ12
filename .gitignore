@@ -72,7 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-LD12/Content/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.uasset
-LD12/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_trunk_N.uasset
-LD12/Content/Abandoned_Cathedral/Terrain/texture/T_Sand_C_N.uasset
 /LD12/Content/Abandoned_Cathedral
+/LD12/Content/TurnBasedStrategyRPGTemplate
