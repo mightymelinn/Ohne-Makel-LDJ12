@@ -3246,3 +3246,105 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.04.09-07.15.34:602][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.09-07.15.34:602][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.09-07.15.34:602][858]AssetCheck: /Game/Makel/Levels/L_BlockOutExplore Validating asset
+[2026.04.09-07.19.07:111][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2381.346680
+[2026.04.09-07.19.07:278][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-07.19.07:278][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2381.504150, Update Interval: 330.870697
+[2026.04.09-07.24.00:113][187]LogActorComponent: ~FComponentReregisterContext: (/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.Brush_7.BrushComponent0) Component already registered.
+[2026.04.09-07.24.00:125][187]LogActorComponent: ~FComponentReregisterContext: (/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.Brush_6.BrushComponent0) Component already registered.
+[2026.04.09-07.24.03:120][471]Cmd: TRANSACTION UNDO
+[2026.04.09-07.24.03:121][471]LogEditorTransaction: Undo Set Location
+[2026.04.09-07.24.03:164][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_539' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_540' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_541' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_542' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_543' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_544' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_545' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:165][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_546' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_547' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_548' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_549' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_550' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_551' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_552' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_553' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_554' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_555' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:166][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_556' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_557' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_558' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_559' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_560' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_561' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_562' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_563' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_564' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:167][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_565' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:168][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_566' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:168][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Makel/Levels/L_BlockOutExplore.L_BlockOutExplore:PersistentLevel.ModelComponent_567' invalid (268 verts, 0 indices).
+[2026.04.09-07.24.03:245][471]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.04.09-07.24.03:306][471]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.062 s
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: === Handled ensure: ===
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: 
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2254] 
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: 
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: Stack: 
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffcacf903a0 UnrealEditor-Engine.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3d0a4d9 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3d397a4 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3d203c5 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3de3a58 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3d68432 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3d1f9e2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca3d1b946 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffcaa3ec876 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffcaea21574 UnrealEditor-Engine.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca4948152 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x000002193e2a7bf1 UnrealEditor-MainFrame.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x000002193e2a8bbd UnrealEditor-MainFrame.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca8b7d5c5 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca8b60c87 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca8bc793b UnrealEditor-Slate.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x000002193e2b74ee UnrealEditor-MainFrame.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x000002193e2a7935 UnrealEditor-MainFrame.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca8aee5fd UnrealEditor-Slate.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca8ae20a3 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca928f43c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca9277137 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca929299c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca9271171 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffdc646c396 USER32.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffdc646a7ed USER32.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffca92b2316 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ff774c5871b UnrealEditor.exe!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ff774c7e5ac UnrealEditor.exe!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ff774c7e6ba UnrealEditor.exe!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ff774c8209e UnrealEditor.exe!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ff774c94e44 UnrealEditor.exe!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ff774c980fa UnrealEditor.exe!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffdc694e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: [Callstack] 0x00007ffdc76ac48c ntdll.dll!UnknownFunction []
+[2026.04.09-07.24.03:307][471]LogOutputDevice: Error: 
+[2026.04.09-07.24.03:317][471]LogStats:                SubmitErrorReport -  0.000 s
+[2026.04.09-07.24.08:271][471]LogStats:                    SendNewReport -  4.954 s
+[2026.04.09-07.24.08:271][471]LogStats:             FDebug::EnsureFailed -  5.027 s
+[2026.04.09-07.25.32:474][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.09-07.25.32:603][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.09-07.25.32:626][389]LogSavePackage: Moving output files for package: /Game/Makel/Levels/L_BlockOutExplore
+[2026.04.09-07.25.32:638][389]LogSavePackage: Moving '../../../../../../Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Saved/L_BlockOutExplore5D3C333B4B5069555DE8C69F84B655F7.tmp' to '../../../../../../Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOutExplore.umap'
+[2026.04.09-07.25.32:649][389]LogFileHelpers: Saving map 'L_BlockOutExplore' took 0.128
+[2026.04.09-07.25.32:662][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.130 ms (total: 1.73 sec)
+[2026.04.09-07.25.35:856][389]LogSlate: Window 'Message Log' being destroyed
+[2026.04.09-07.25.35:860][389]LogSlate: Window 'Message Log' being destroyed
+[2026.04.09-07.25.46:256][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.09-07.25.46:313][389]LogStall: Shutdown...
+[2026.04.09-07.25.46:313][389]LogStall: Shutdown complete.
+[2026.04.09-07.25.46:407][389]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-07.25.46:407][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-07.25.46:418][389]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-07.25.46:418][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-07.25.46:470][389]LogSlate: Window 'LD12 - Unreal Editor' being destroyed
+[2026.04.09-07.41.16:793][389]LogDerivedDataCache: C:/Users/chail/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.026 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 176 files in 354 folders with total size 2 MiB.
