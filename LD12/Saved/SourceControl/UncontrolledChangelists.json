@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Abandoned_Cathedral/Maps/Preview.umap"
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Abandoned_Cathedral/Maps/Preview.umap",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOut.umap",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_MainMenu.umap",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/WBP_MakelMainMenu1.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Widgets/WBP_MakelMainMenu1.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Widgets/WBP_MakelMainMenu.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOutExplore.umap",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOutBattle.umap"
 			]
 		}
 	]
