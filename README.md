@@ -21,9 +21,20 @@ Whatsup homie! I'm Melinn 👋, a game designer currently based in Vancouver, BC
 I made this repo public to share my raw, behind-the-scenes progress :3 - and if you spot a cool way to optimize my BPs, I'm always down to learn!
 
 ## The Challenge
-| Genre | Setting | Theme |
-| :---: | :---: | :---: |
-| Turn-Based Strategy RPG | Abandoned Cathedral | The City |
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Genre</th>
+      <th align="center">Setting</th>
+      <th align="center">Theme</th>
+    </tr>
+    <tr>
+      <td align="center">Turn-Based Strategy RPG</td>
+      <td align="center">Abandoned Cathedral</td>
+      <td align="center">The City</td>
+    </tr>
+  </table>
+</div>
 
 > **🎬 Fun Fact:** The "City" theme was chosen (By [Steve Lee](https://www.linkedin.com/in/stevelee2/)) from the classic 1927 German silent film *Metropolis*, a true pioneer of sci-fi cinema. If you want to see the vibe I'm referencing, you can actually watch the full movie for free on YouTube here: [METROPOLIS (1927)](https://www.youtube.com/watch?v=enwB5zZfaV4).
 ## My Design Goals
@@ -45,7 +56,13 @@ I want to build a distinct pacing arc for the encounters. If the player formulat
 <summary><b>Click to expand progress updates</b></summary>
 <br>
 
-*Updates and iteration counts coming soon as whiteboxing begins!*
+**Pass 01: Paper Design Draft** I researched traditional cathedral architecture to quickly draft a paper blockout. The focus is establishing 1x1m spatial metrics and mapping the elevation flow.
+
+<p align="center">
+  <img width="300" alt="Pass01" src="https://github.com/user-attachments/assets/8147b825-c047-4b38-b982-5d87e41fcda0" />
+</p>
+
+---
 
 </details>
 
