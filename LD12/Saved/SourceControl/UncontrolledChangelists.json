@@ -8,11 +8,21 @@
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Abandoned_Cathedral/Maps/Preview.umap",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOut.umap",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_MainMenu.umap",
-				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/WBP_MakelMainMenu1.uasset",
-				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Widgets/WBP_MakelMainMenu1.uasset",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Widgets/WBP_MakelMainMenu.uasset",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOutExplore.umap",
-				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOutBattle.umap"
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Levels/L_BlockOutBattle.umap",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BP_ExploreHero.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/TurnBasedStrategyRPGTemplate/Blueprints/Heroes/Explore/BP_ExploreHero.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BP_AggressiveEnemy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/TurnBasedStrategyRPGTemplate/Blueprints/Core/BP_ExploreGameMode.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/TurnBasedStrategyRPGTemplate/Blueprints/Heroes/Explore/BP_XeplorePlayer.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/TurnBasedStrategyRPGTemplate/Maps/Explore.umap",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BP_BossEnemy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BP_PassiveEnemy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BP_CapturedSoul.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/ParagonSerath/Characters/Heroes/Serath/SerathPlayerCharacter.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/WBP_MakelMainMenu1.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Widgets/WBP_MakelMainMenu1.uasset"
 			]
 		}
 	]
