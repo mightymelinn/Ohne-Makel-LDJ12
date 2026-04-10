@@ -72,6 +72,13 @@ I want to build a distinct pacing arc for the encounters. If the player formulat
 
 ---
 
+**Pass 03: Playable Blockout** *I implemented placeholder BPs across the map, so it's now fully playable and interactable. The core player flow and interaction zones are clearly established! Next, I will building a separate map dedicated entirely to the turn-based battle grid.*
+
+<p align="center">
+ <img width="300" alt="Pass03" src="https://github.com/user-attachments/assets/088bde14-d88a-4773-bf46-5d7cc251f9fa" />
+</p>
+
+---
 </details>
 
 <br>
