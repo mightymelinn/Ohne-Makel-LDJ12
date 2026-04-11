@@ -72,7 +72,7 @@ I want to build a distinct pacing arc for the encounters. If the player formulat
 
 ---
 
-**Pass 03: Playable Blockout** *I implemented placeholder BPs across the map, so it's now fully playable and interactable. The core player flow and interaction zones are clearly established! Next, I will building a separate map dedicated entirely to the turn-based battle grid.*
+**Pass 03: Playable Blockout (04/10/26)** *I implemented placeholder BPs across the map, so it's now fully playable and interactable. The core player flow and interaction zones are clearly established! Next, I will building a separate map dedicated entirely to the turn-based battle grid.*
 
 <p align="center">
  <img width="300" alt="Pass03" src="https://github.com/user-attachments/assets/088bde14-d88a-4773-bf46-5d7cc251f9fa" />
@@ -83,6 +83,48 @@ I want to build a distinct pacing arc for the encounters. If the player formulat
 
 <br>
 
+---
+
+## Combat & Progression
+
+<details>
+<summary><b>Level Progression System</b></summary>
+
+The dynamic leveling system utilizes a floored quadratic equation to calculate player progression. This ensures precise, hard mathematical cutoffs for level advancements, maintaining strict encounter balance across the map.
+
+**Progression Formula:**
+The current player level is calculated using the following equation, where $E$ represents the scaling exponent constant and $x$ represents the total accumulated experience (`exp`):
+
+$$\text{Level} = \frac{\lfloor E + \sqrt{E^2 + 4Ex} \rfloor}{2E}$$
+
+Calculated base: 
+
+$$x = \frac{25 + \sqrt{625 + 100y}}{50}$$
+
+**Visualization of Level Progression:**
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/4696af67-4cf6-4aae-b1ff-f3fb872d5303" />
+
+</details>
+
+<details>
+<summary><b>Damage Calculation</b></summary>
+
+For level design purposes, combat math emphasizes spatial positioning. Damage scales dynamically based on unit stats, elemental affinities, and critical positional advantages (such as forced melee or extreme range penalties), directly influencing grid layout and encounter pacing.
+
+**Core Formula:**
+
+$$\text{Total Damage} = \text{Base} \times (1 + \text{Inc}_A) \times (1 - \text{Red}_D) \times (1 - \text{Red}_P) \times (1 + \text{Elem})$$
+
+* **Inc_A (Attack Advantage):** +5% damage per point Attack > Defense (Cap: 300%).
+* **Red_D (Defense Penalty):** -2.5% damage per point Defense > Attack (Cap: 70%).
+* **Red_P (Positional Penalty):** -50% damage if firing beyond max range or forced into melee.
+* **Elem (Elemental Modifier):** Ranges from -1.0 (Immune) to +1.0 (Weakness).
+
+</details>
+
+<br>
+  
 > [!IMPORTANT]  
 > **Asset Notice:** This repository serves as a logic and level design breakdown. To comply with Marketplace EULAs, the high-fidelity environmental meshes and textures used in the final build are excluded from this public source. The repository contains the project logic, grid math, and greybox layouts.
 
