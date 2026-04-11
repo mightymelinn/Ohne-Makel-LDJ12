@@ -1,0 +1,11 @@
+Breadcrumbs 'Parallel'
+ - PostPass
+ - Nanite::DrawGeometry
+ - Face 2
+ - Nanite Cubemap Preview.BP_Candle_14 128x128
+ - Cubemap Preview.BP_Candle_14 128^2
+ - ShadowDepths
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 469462
