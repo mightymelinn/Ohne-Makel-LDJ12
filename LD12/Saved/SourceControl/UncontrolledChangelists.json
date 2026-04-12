@@ -68,6 +68,18 @@
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/ParagonSerath/Characters/Heroes/Serath/Textures/T_Serath_WingThicknessMask.uasset",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/ParagonSerath/Characters/Heroes/Serath/Textures/T_SerathWings_EvilMask.uasset",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/ParagonSerath/Characters/Heroes/Serath/Textures/T_SerathWings_HolyMask.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BP_BattlePlayer.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/Players/BP_ExploreHero.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/Players/BP_BattlePlayer.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/Players/BP_ExplorePlayer.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/ExploreLevel/BP_AggressiveEnemy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/ExploreLevel/BP_BossEnemy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/ExploreLevel/BP_CapturedSoul.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/ExploreLevel/BP_PassiveEnemy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/BattleLevel/BP_MeleeArmy.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/ExploreLevel/BP_Summoners.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/TurnBasedStrategyRPGTemplate/Blueprints/Interactables/Shop/BP_Summoner.uasset",
+				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Blueprints/ExploreLevel/BP_Summoner.uasset",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/WBP_MakelMainMenu1.uasset",
 				"C:/Users/chail/OneDrive/Desktop/GameProjects/LevelDesignGameJam12/LD12/Content/Makel/Widgets/WBP_MakelMainMenu1.uasset"
 			]
